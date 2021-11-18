@@ -1,7 +1,7 @@
 /* Practice Assignment 15:
 
 Complete this javascript file according to the individual instructions
-given in the comments. 
+given in the comments.
 
 *** DO NOT CHANGE any of the code that you are not instructed to. */
 
@@ -21,8 +21,8 @@ given in the comments.
 
 // 2) Create a function named "getAllUsers".
 // Use Fetch with Async/Await to request
-// all the posts. The function should
-// return all the posts as JSON data.
+// all the users. The function should
+// return all the users as JSON data.
 
 // 3) Create a function named "getComments".
 // This function needs to accept a "postID"
